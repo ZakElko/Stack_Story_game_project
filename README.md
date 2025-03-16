@@ -1,4 +1,4 @@
-# Story Game Program - CISC 187 Chapter 19 (Stack Implementation)
+# Story Game Program - (Stack Implementation)
 
 ## Author:
 Zakaria Elkhodary  
